@@ -7,4 +7,4 @@ def loop_message_five_times(message)
   end
 end
 
-puts loop_message_five_times(1)
+puts loop_message_five_times(50)
