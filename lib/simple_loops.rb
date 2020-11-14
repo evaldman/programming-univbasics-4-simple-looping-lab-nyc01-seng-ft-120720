@@ -34,6 +34,7 @@ def return_string_array(array)
     array[count] = array[count].to_s
     count += 1 
   end 
+  array
 end
 
 puts return_string_array([1,2,3,4,5])
