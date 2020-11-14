@@ -36,4 +36,4 @@ def return_string_array(array)
   end 
 end
 
-puts retuen_string_array
+puts return_string_array([1,2,3,4,5])
