@@ -16,4 +16,4 @@ def loop_message_n_times(message, limit)
   end
 end 
 
-puts loop_message_n_times
+puts loop_message_n_times("Hello moon", 8)
